@@ -1,4 +1,4 @@
-package todoApp.GET.todos
+package todoApp.QUERY.todos
 
 import future.keywords.in
 import input.resource
